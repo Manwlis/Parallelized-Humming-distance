@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : OMP_char.c
- Author      : Manolis Petrakos, Dimitris Karampasoglou
+ Author      : Manolis P, Dimitris K
  Description : Task is set as: Compare one character from a group A string with another from a group B string.
  If they are different, add 1 to the diffs[i][j].
  ============================================================================
