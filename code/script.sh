@@ -6,7 +6,7 @@ echo "The script starts."
 echo ""
 
 #Compile the code.
-gcc -o serial Serial.c
+gcc -o serial serial.c
 gcc -fopenmp -o OMP_char OMP_char.c
 gcc -fopenmp -o OMP_string OMP_string.c
 gcc -fopenmp -o OMP_line OMP_line.c
