@@ -1,7 +1,7 @@
 /*
  ============================================================================
- Name        : Serial.c
- Author      : Manolis Petrakos, Dimitris Karampasoglou
+ Name        : serial.c
+ Author      : Manolis P, Dimitris K
  Description : Serial algorithm.
  ============================================================================
  */
