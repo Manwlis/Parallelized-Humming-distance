@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Name        :	pthread_string.c
- Author      :	Manolis Petrakos, Dimitris Karampasoglou
+ Author      :	Manolis P, Dimitris K
  Description :	Task is set as: Compare one string from group A with another from group B.
- 				For each different character add 1 to the diffs[i][j].
- 				Then each thread has to add that to the total diff.
+ 		For each different character add 1 to the diffs[i][j].
+ 		Then each thread has to add that to the total diff.
  ============================================================================
  */
 
