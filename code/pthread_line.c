@@ -2,9 +2,8 @@
  ============================================================================
  Name        :	pthread_line.c
  Author      :	Manolis P, Dimitris K
- Description :	Task is set as: Compare one string from group A with all the strings from group B.
- 		For each different character add 1 to the apropriate diffs[i][j]. 
- 		Then each thread has to acumulate and add the lineDiff to the total diff.
+ Description :	Task is set as: Compare one string from group A with all the strings from group B. For each different
+ character add 1 to the apropriate diffs[i][j]. Then each thread has to acumulate and add the lineDiff to the total diff.
  ============================================================================
  */
 
