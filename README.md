@@ -1,7 +1,7 @@
 Trying to learn how to use github using an old university project.
 
 
-# HRY418-project_1
+# HRY418-project-1
 
 Parallelize a simple program using openMP and pthreads, in C, with three task sizes. Need gcc to compile. Use the script to compile and run all the files.
 
