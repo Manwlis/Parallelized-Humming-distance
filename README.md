@@ -3,7 +3,7 @@ Trying to learn how to use github using an old university project.
 
 # HRY418-project-1
 
-Parallelize a simple program usiasng openMP and pthreads, in C. Use the script to compile and run all the files.
+Parallelize a simple program using openMP and pthreads, in C. Use the script to compile and run all the files.
 
 The program creates two equally sized arrays containing random strings. Then, it computes a 2D matrix with the Hamming distances between the strings in the same positions on the two previous arrays. Finally, it times the computational part.
 
