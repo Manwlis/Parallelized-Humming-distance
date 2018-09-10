@@ -7,6 +7,7 @@ Parallelize a simple program using openMP and pthreads, in C. Use the script to 
 
 The program creates two equally sized arrays containing random strings. Then, it computes a 2D matrix with the Hamming distances between the strings in the same positions on the two previous arrays. Finally, it times the computational part.
 
+Benchmarked on dual Intel Xeons E5620 @ 2.40GHz with 8GB DDR3 memory.
 
 ## Parallelization
 
