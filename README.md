@@ -1,7 +1,4 @@
-Trying to learn how to use github using an old university project.
-
-
-# HRY418-project-1
+# Parallelized-Humming-distance
 
 Parallelize a simple program using openMP and pthreads, in C. Use the script to compile and run all the files.
 
